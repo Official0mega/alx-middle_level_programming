@@ -1,0 +1,50 @@
+## Steps to Create Postgresql
+
+1. Create skeleton database
+
+use this command below!
+
+mkdir -p $PREFIX/var/lib/postgresql
+initdb $PREFIX/var/lib/postgresql
+
+
+2. Starting the databas
+
+use this command below!
+
+pg_ctl -D $PREFIX/var/lib/postgresql start
+
+
+3. Similarly stop the database usin
+
+use this command below!
+
+pg_ctl -D $PREFIX/var/lib/postgresql stop
+
+
+4. Create User
+
+use this command below!
+
+createuser --superuser --pwprompt yourUserName
+
+
+5. Create your database
+
+use this command below!
+
+createdb mydb
+
+
+6. Open your database
+
+use this code below!
+
+psql mydb
+
+
+7. You will now see the promt
+
+use this code below!
+
+mydb=#
