@@ -1,0 +1,13 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Thu, 05 Oct 2023 17:15:35 at https://intranet.alxswe.com/
+(httrack https://intranet.alxswe.com/ -O /mnt/e/WinFiles/htdocs/ALX/official0mega.blog/alx-middle_level_programming/ -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:15:40	Warning: 	Found for https://intranet.alxswe.com/
+17:15:40	Warning: 	File has moved from https://intranet.alxswe.com/ to https://intranet.alxswe.com/auth/sign_in
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 32 seconds : 48 links scanned, 46 files written (5336655 bytes overall) [1868229 bytes received at 20306 bytes/sec], 4947743 bytes transferred using HTTP compression in 13 files, ratio 29%, 9.6 requests per connection
+(No errors, 2 warnings, 0 messages)

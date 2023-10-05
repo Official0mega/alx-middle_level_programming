@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+intranet.alxswe.com	TRUE	/	FALSE	1999999999	_holberton_intranet_session	DnznzO2nRviOShZfdAgDKetkKAtS8U%2Fa%2Bn%2Ft%2FzWndLndOns8uOyZ6L2por2qymJOuK0AbsTynZyL5klIeGfP0h7Ql9g9to1kY%2Flcwz5QxnJDAYcpaRM%2BsVq3o8LosDAAYvi7cSVHd3uqSyhti17oziSO1Br7ZyO6cyxmc%2Fe%2BcpN%2Bm5bpP3ro20QIbH86VZLlbbJPic4NOKsHB6DovHsal7R5LIcaJC6hqicnbXz3l2sAL3xM%2BYGfCd0vmyDmeYa9mBXv3LfJuDh%2B3tSn%2B16ae9uZjO90kzRVC436tvCnj6BsFzSOtaBvXjnm5SCXhW7OG4aAiNg1jBy4%2FhZglr1z--tP2aDaGK21j4cKgh--xV1fAKyyNyV7EXf8f12xtA%3D%3D
+intranet.alxswe.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
