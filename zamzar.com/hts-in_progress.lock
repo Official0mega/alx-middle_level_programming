@@ -1,0 +1,7 @@
+Mirror in progress since Thu, 05 Oct 2023 11:02:48 .. please wait!
+httrack https://www.zamzar.com/ -O /mnt/e/WinFiles/htdocs/ALX/official0mega.blog/alx-middle_level_programming/ -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=359
+UID=1000
+GID=1000
+START=1696500168
