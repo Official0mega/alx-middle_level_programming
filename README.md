@@ -10,3 +10,4 @@ wget --mirror -p --convert-links -P ./local-directory --execute robots=off --spa
 
 wget --mirror -p --convert-links -P ./local-directory --execute robots=off --span-hosts --domains=primebiller.com,backend-domain.com --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" https://primebiller.com/
 
+httrack "https://primebiller.com/" -O ./local-directory -N "%h%p/%n%q.%t" --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
